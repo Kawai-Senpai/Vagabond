@@ -1,0 +1,16 @@
+digraph {
+	node [shape=rectangle]
+	a [label="Node: a
+----------
+Value: 
+5"]
+	a -> b
+	b [label="Node: b
+----------
+Value: 
+(10, 5)"]
+	b -> c
+	c [label="Node: c"]
+	c -> e
+	e [label="Node: e"]
+}
