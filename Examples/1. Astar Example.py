@@ -85,7 +85,6 @@ plt.imshow(free_space_grid, cmap='gray', origin='upper')
 # Plot the path as a line
 path = np.array(astar_obj.get_raw())
 
-#plot simplified dots
 plt.plot(path[:, 1], path[:, 0], 'r')
 plt.scatter(robot_cell[1], robot_cell[0], color='r', marker='x')
 plt.scatter(end_cell[1], end_cell[0], color='g', marker='x')
