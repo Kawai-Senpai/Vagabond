@@ -1,4 +1,4 @@
-from systems import node
+from vagabond.systems import node
 from graphviz import Digraph
 
 # This is a class that will be have all the different path finding algorithms
