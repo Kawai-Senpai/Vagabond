@@ -2,7 +2,7 @@
 
 ![Vagabond Cover](https://github.com/Kawai-Senpai/Vagabond/blob/8ace568ead80b19b363469a42a4443c50299433e/Assets/Vagabond%20Cover.png)
 
-Vagabond is a powerful and flexible Python library designed to simplify the implementation of various pathfinding algorithms and related operations developed by [*Ranit Bhowmick*](https://www.linkedin.com/in/ranitbhowmick/) & [*Sayanti Chatterjee*](https://www.linkedin.com/in/sayantichatterjee/). Whether you're working on robotics, AI, or game development, Vagabond offers an easy-to-use interface for complex algorithms like A*, Dijkstra's, and more.
+[Vagabond](https://pypi.org/project/py-vagabond/) is a powerful and flexible Python library designed to simplify the implementation of various pathfinding algorithms and related operations developed by [*Ranit Bhowmick*](https://www.linkedin.com/in/ranitbhowmick/) & [*Sayanti Chatterjee*](https://www.linkedin.com/in/sayantichatterjee/). Whether you're working on robotics, AI, or game development, Vagabond offers an easy-to-use interface for complex algorithms like A*, Dijkstra's, and more.
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Vagabond is a powerful and flexible Python library designed to simplify the impl
 To install the Vagabond library, simply use pip:
 
 ```bash
-pip install vagabond
+pip install py-vagabond
 ```
 
 ## Quick Start
